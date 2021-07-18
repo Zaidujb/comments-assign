@@ -1,2 +1,2 @@
 # comments-assign
-csc506 assign
+csc506 assignment
