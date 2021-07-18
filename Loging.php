@@ -38,7 +38,7 @@ session_start();
 	<div class="container" style="background-image: url(wll.png)">
 		<div class="card">
 			<div class="inner-box" id="card">
-				<div class="card-front" style="background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6))">
+				<div class="card-front" style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))">
 
 				<h2>LOGIN</h2>
 				<form method="post">
